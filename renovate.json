@@ -5,5 +5,8 @@
   ],
   "postUpdateOptions": [
     "gomodTidy"
-  ]
+  ],
+  "nix": {
+    "enabled": true
+  }
 }
