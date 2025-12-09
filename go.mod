@@ -3,7 +3,7 @@ module github.com/galexrt/srcds_exporter
 go 1.24.5
 
 require (
-	github.com/galexrt/go-rcon v0.0.3
+	github.com/galexrt/go-rcon v0.0.4
 	github.com/kardianos/service v1.2.4
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/prometheus/client_golang v1.23.2
